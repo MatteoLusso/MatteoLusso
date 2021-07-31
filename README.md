@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MatteoLusso.
 - 🔌 I'm an elettric and elettronic engineer,
 - ⌨️ and I like to program. 
-- 💾 Here you can finde some of my code!
+- 💾 Here you can find some of my code!
