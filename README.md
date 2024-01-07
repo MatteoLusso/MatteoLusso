@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MatteoLusso.
 - 🔌 I'm an electrical and electronics engineer,
 - ☁️ a Saleforce consultant,
+- 🕹️ a gamer,
 - ⌨️ and I like to program. 
 - 💾 Here you can find some of my code!
